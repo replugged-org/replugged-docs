@@ -1,4 +1,4 @@
-# [Powercord-Docs](https://github.com/SammCheese/Powercord-Docs/wiki)
+# [Replugged-Docs](https://github.com/SammCheese/Replugged-Docs/wiki)
 a WIP repository for Powercord Documentation
 
 
